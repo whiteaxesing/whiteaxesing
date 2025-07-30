@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Francisco González
 
 ## 💻 Full-Stack Software Engineer | Backend Specialist | Tech Enthusiast 
-
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com?user=whiteaxesing&theme=highcontrast&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
-
 ---
+-->
 
 ## 🧠 About Me
 
