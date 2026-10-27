@@ -148,7 +148,6 @@ I believe code and music share the same soul: **structure, rhythm, and flow**.ü
 ## üåê Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@FranciscoGonzalez-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-gonzalez-madrigal/)
-[![Email](https://img.shields.io/badge/redacted@example.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:redacted@example.com)
 
 
 ---
